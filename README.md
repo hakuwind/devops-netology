@@ -1,4 +1,4 @@
-#Files to be ignored in terraform due to .gitignore
+# Files to be ignored in terraform due to .gitignore
 * local .terraform directories
 * .tfstate files
 * crash log files (crash.log file specifically)
